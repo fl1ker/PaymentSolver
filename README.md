@@ -29,7 +29,7 @@ mvn clean package
 ```bash
 java -jar target/payment-optimizer-1.0-SNAPSHOT.jar orders.json paymentmethods.json
 ```
-![Wynik](wynik.png)
+![Wynik](PaymentSolver/wynik.png)
 
 ## Running Tests
 ```bash
@@ -39,7 +39,7 @@ Or with coverage
 ```bash
 mvn clean verify
 ```
-![Tests](test_coverage.png)
+![Tests](PaymentSolver/test_coverage.png)
 
 ## Viewing Coverage Report
 target/site/jacoco/index.html
