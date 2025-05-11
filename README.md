@@ -14,7 +14,7 @@ available limits and discounts.
 - Unit-tested with full logic branch coverage
 
 ## Project Structure
-![Project Structure](project_structure.png)
+![Project Structure](PaymentSolver/project_structure.png)
 
 ## Requirements
 - Java 21
